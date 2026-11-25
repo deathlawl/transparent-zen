@@ -1,3 +1,5 @@
+@import url("../shared/text-shadow.css");
+
 @media screen {
   html.skin-theme-clientpref-night {
     --background-color-base: none;
