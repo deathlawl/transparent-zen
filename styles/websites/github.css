@@ -1,3 +1,5 @@
+@import url("../shared/text-shadow.css");
+
 html,
 body {
   --bgColor-default: transparent;
